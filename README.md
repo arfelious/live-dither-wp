@@ -76,6 +76,26 @@ The Makefile auto-detects your platform (Linux/Windows) and builds accordingly.
 ./live-dither-wp --restore
 ```
 
+## Demo
+
+|Default Image|
+|------|
+|<img src="./bg.jpg" width="400">|
+
+|[Linux XFCE (Click to View)](https://github.com/user-attachments/assets/fbb2e5b9-f9c0-45d4-b966-aa8c9972bcc7)|
+|-----|
+|<img src="https://github.com/user-attachments/assets/fbb2e5b9-f9c0-45d4-b966-aa8c9972bcc7" width="400">|
+
+
+|[Windows (Click to View)](https://github.com/user-attachments/assets/e1d44777-653f-4cf7-81e4-180a9ec237a3)|
+|----|
+|<img src="https://github.com/user-attachments/assets/e1d44777-653f-4cf7-81e4-180a9ec237a3" width="400">|
+
+
+
+
+
+
 ## How It Works
 
 The engine loads an image and scales it to screen resolution, then classifies each pixel as black, orange, or ambiguous based on color distance. Static pixels (clearly black or orange) are cached and never recalculated. Only ambiguous pixels are animated each frame using the selected algorithm, then rendered to a desktop-type window below all other windows.
