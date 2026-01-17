@@ -4,7 +4,7 @@
  * Supports: Windows (Progman/WorkerW) and Linux X11 (root window pixmap)
  * 
  * Build on Windows: cl /O2 main.cpp /link OpenGL32.lib winmm.lib
- * Build on Linux:   g++ -O2 main.cpp -o live-dither-wp -lX11 -lXrandr -lGL -lGLX
+ * Build on Linux:   g++ -O2 main.cpp -o live-dither-wp -lX11 -lXrandr -lXext
  * 
  * CLI: ./live-dither-wp [image] [algorithm] [threshold] [pixel_size] [max_fps] [profile] [chaos]
  *   image: path to background image (default: bg.jpg)
