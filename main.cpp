@@ -548,6 +548,9 @@ static void setXfconfProp(std::string suffix, int val) {
 }
 
 static void restoreXfconfSettings() {
+    static bool restored = false;
+    if (restored) return;
+    restored = true;
     std::cout << "Restoring xfdesktop settings..." << std::endl;
     setXfconfProp("color-style", 0); // Solid
     setXfconfProp("image-style", 5); // Zoomed
