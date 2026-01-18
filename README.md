@@ -82,17 +82,14 @@ The Makefile auto-detects your platform (Linux/Windows) and builds accordingly.
 |------|
 |<img src="./bg.jpg" width="400">|
 
-|[Linux XFCE (Click to View)](https://github.com/user-attachments/assets/fbb2e5b9-f9c0-45d4-b966-aa8c9972bcc7)|
+|[Linux XFCE (Click to View)](https://github.com/user-attachments/assets/8702ec98-9099-45f4-960d-e338b95c0c6a)|
 |-----|
-|<img src="https://github.com/user-attachments/assets/fbb2e5b9-f9c0-45d4-b966-aa8c9972bcc7" width="400">|
+|<img src="https://github.com/user-attachments/assets/8702ec98-9099-45f4-960d-e338b95c0c6a" width="400">|
 
 
-|[Windows (Click to View)](https://github.com/user-attachments/assets/e1d44777-653f-4cf7-81e4-180a9ec237a3)|
+|[Windows (Click to View)](https://github.com/user-attachments/assets/3c30a388-e1ea-46fe-8606-2f5ada78158c)|
 |----|
-|<img src="https://github.com/user-attachments/assets/e1d44777-653f-4cf7-81e4-180a9ec237a3" width="400">|
-
-
-
+|<img src="https://github.com/user-attachments/assets/3c30a388-e1ea-46fe-8606-2f5ada78158c" width="400">|
 
 
 
